@@ -1,0 +1,3 @@
+DriveReporter creates a .csv report on a folder you select. If subfolders are present, the report will be organized by subfolder. For each subfolder (or just the root if subfolders aren't present), the size, number of files, and number of files where the reporter was denied permission to extract information is listed. The report also lists the date of most recent modificaiton to any file in a subfolder and notes if a subfolder was created within the last month. If a maximum file size was entered in running the reporter, it will calculate the percent of free space currently being used.
+
+Setup of DriveReporter (i.e. selecing which folder to run the report on and where to save the report) is done through easyGUI windows. 

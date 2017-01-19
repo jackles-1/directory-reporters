@@ -1,0 +1,3 @@
+YearModifiedReporter creates a .csv report about a selected file. The report shows the number of files most recently modified in a given year and the size they take up.
+
+YearModifiedReporter is setup (i.e. the folder to report on is selected as well as where the report shall be saved) using easyGUI windows.

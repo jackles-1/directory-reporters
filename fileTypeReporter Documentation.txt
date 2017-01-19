@@ -1,0 +1,3 @@
+FileTypeReporter creates a .csv report about a selected folder. For each file type present within the folder, it reports the number of files of that file type and the size they take up.
+
+Setup of FileTypeReporter (i.e. selecting which folder to run the report on and where to save the report) is done through easyGUI windows.
